@@ -48,8 +48,8 @@ This is an Object Detection app built with Streamlit, OpenCV, and the YOLOv10 mo
 
 - Sample Image Predictions
 
-  ![sample1](image.png)
-  ![sample2](image-1.png)
+  ![sample1](code/test_results/test1.jpg)
+  ![sample2](code/test_results/test2.jpg)
 
 # Recognitions
 
