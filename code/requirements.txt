@@ -2,17 +2,3 @@ opencv-python-headless
 numpy
 streamlit
 logging
-torch
-torchvision
-onnx
-onnxruntime
-pycocotools
-PyYAML
-scipy
-onnxsim
-onnxruntime-gpu
-gradio
-psutil
-py-cpuinfo
-huggingface-hub
-safetensors
