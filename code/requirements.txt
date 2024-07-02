@@ -1,4 +1,9 @@
 opencv-python-headless
 numpy
 logging
+streamlit
+Pillow
+torch
+tqdm
+git+https://github.com/THU-MIG/yolov10.git
 YOLOv10
