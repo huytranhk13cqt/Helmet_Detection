@@ -10,8 +10,8 @@ def main():
     print(f"Using device: {device}")
 
     # Path to the model and YAML file
-    MODEL_PATH = './yolov10/yolov10n.pt'
-    YAML_PATH = './safety_helmet_dataset/data.yaml'
+    MODEL_PATH = './code/yolov10/yolov10n.pt'
+    YAML_PATH = './code/safety_helmet_dataset/data.yaml'
 
     # Ensure the existence of the model file
     if not os.path.exists(MODEL_PATH):
